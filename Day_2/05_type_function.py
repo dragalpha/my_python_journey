@@ -1,0 +1,15 @@
+a=31
+t=type(a)
+print(t)
+b=45.55
+t=type(b)
+print(t)
+c="jokey"
+t=type(c)
+print(t)
+d="55.55"
+e=float(d)
+t=type(d)
+print(t)
+t=type(e)
+print(t)
