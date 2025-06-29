@@ -1,4 +1,3 @@
----
 
 ### 🐍 My Python Learning Journey 🚀
 
@@ -28,5 +27,3 @@ Over time, this repository will evolve and grow with more advanced topics like w
 You’re welcome to follow along, clone the repository, or use any part of it in your own learning. Feedback, suggestions, and collaboration ideas are always appreciated!
 
 Let’s learn, build, and improve together — one day at a time.
-
----
